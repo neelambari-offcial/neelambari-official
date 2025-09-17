@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on academic projects involving ai and computer vision.<br>👯 I’m looking to collaborate on begineer friendly projects to learn and grow together.<br>🤝 I’m looking for help with growing as a developer.<br>🌱 I’m currently learning the funementals of programmimg.<br>💬 Ask me about my career goals<br>⚡ Fun fact: i dont know anything!
+🔭 I’m currently working on academic projects involving ai and computer vision.<br>👯 I’m looking to collaborate on begineer friendly projects to learn and grow together.<br>🤝 I’m looking for help with growing as a developer.<br>🌱 I’m currently learning the funementals of programmimg.<br>💬 Ask me about my career goals<br>⚡ Fun fact: I write bugs faster than i write code!
 
 
 # 💻 Tech Stack:
